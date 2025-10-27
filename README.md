@@ -1,9 +1,6 @@
 # GraphMamba: Graph Tokenization Mamba for HSI Classification
 
-This repository hosts an **editable, minimal, ready-to-push** project scaffold for the paper *GraphMamba: Graph Tokenization Mamba for Hyperspectral Image Classification* (IEEE TETC). It includes a clean folder layout, explanatory README, figures, and a lightweight PyTorch reference implementation that mirrors the paper's modules: **spatial/spectral tokenization, graph token prioritization, cross-attention,** and a **GRU-based state-space head**.
-
-> Quick start: unzip, `cd graphmamba-repo`, create a virtual environment, `pip install -r requirements.txt`, and run `python -m src.train --help`.
-
+*GraphMamba: Graph Tokenization Mamba for Hyperspectral Image Classification* (IEEE TETC). **spatial/spectral tokenization, graph token prioritization, cross-attention,** and a **GRU-based state-space head**.
 ---
 <img width="4230" height="2410" alt="Model" src="https://github.com/user-attachments/assets/40c8834a-1ba8-4d2f-b341-b36ea97e4f42" />
 
