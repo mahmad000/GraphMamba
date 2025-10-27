@@ -9,8 +9,6 @@ This repository hosts an **editable, minimal, ready-to-push** project scaffold f
 
 <img width="364" height="684" alt="Tokenization" src="https://github.com/user-attachments/assets/df0c64c7-605b-4c4a-a319-98a350f06c9b" />
 
-<img width="431" height="673" alt="tokenization" src="https://github.com/user-attachments/assets/af2a8d41-fb76-4eda-9864-3e0e0c275b41" />
-
 <img width="627" height="388" alt="Attention" src="https://github.com/user-attachments/assets/8f69ee92-5db9-4949-a0b0-b20af557b07a" />
 
 ## Citation
